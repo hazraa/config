@@ -1,0 +1,11 @@
+# gnome3
+# Theme "ambient"
+#http://intgat.tigress.co.uk/rmy/extensions/index.html
+  frippery
+  Gnome Tweak Tool
+
+yum install git
+yum install eclipse
+
+# Eclipse moonlight theme
+#	editor "oblivion"
