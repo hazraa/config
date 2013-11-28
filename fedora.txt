@@ -9,3 +9,6 @@ yum install eclipse
 
 # Eclipse moonlight theme
 #	editor "oblivion"
+#	replace spaces for tabs
+#	Add pyDev
+# 	Add marketplace
